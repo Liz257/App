@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "mapag",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

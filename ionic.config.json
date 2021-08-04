@@ -1,0 +1,7 @@
+{
+  "name": "mapag",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
